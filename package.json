@@ -1,0 +1,18 @@
+{
+  "name": "extended-requirer",
+  "version": "1.0.1",
+  "description": "extended-requirer",
+  "license": "MIT",
+  "repository": "raulcalvo/extended-requirer",
+  "main": "index.js",
+  "keywords": [
+    "extended",
+    "requirer",
+    "require"
+  ],
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "merge-json": "0.1.0-b.3",
+    "path": "^0.12.7"
+  }
+}
